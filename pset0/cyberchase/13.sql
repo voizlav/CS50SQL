@@ -1,2 +1,2 @@
 SELECT "title", "topic" FROM "episodes"
-WHERE "title" LIKE '%hacker%' AND "topic" NOT NULL;
+WHERE "title" LIKE '%hacker%' AND "topic" IS NOT NULL;
