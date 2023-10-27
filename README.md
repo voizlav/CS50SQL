@@ -2,12 +2,12 @@
 
 ### Week 0 *Querying*
 
-- [ ] [Cyberchase][1]
+- [x] [Cyberchase][1]
 - [ ] [36 Views][2]
 - [ ] [Normals][3]
 - [ ] [Players][4]
 
-[1]: /
+[1]: /pset0/cyberchase/
 [2]: /
 [3]: /
 [4]: /
