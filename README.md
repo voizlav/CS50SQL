@@ -8,6 +8,6 @@
 - [x] [Players][4]
 
 [1]: /pset0/cyberchase/
-[2]: /
+[2]: /pset0/views/
 [3]: /
-[4]: /
+[4]: /pset0/players/
